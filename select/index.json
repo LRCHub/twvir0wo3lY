@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "reflect me internet",
+  "base_artist": "z² & DC Mizey",
+  "createdAt": "2026-03-11T18:54:40.898782Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "reflect me internet",
+      "artist": "z² & DC Mizey",
+      "has_synced": false,
+      "path": "select/pl_01_reflect_me_internet_z2_&_DC_Mizey.txt"
+    }
+  ]
+}
